@@ -22,9 +22,8 @@ dist-ssr
 *.sln
 *.sw?
 
-.pnp*
 .yarn/*
+!.yarn/cache
 !.yarn/plugins
 !.yarn/releases
-.yarnrc.yml
 node_modules
